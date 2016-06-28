@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin:700);
+ 
+body {
+    background-color: #44774C;
+}
+
+#clock {
+    position: fixed;
+    color: aliceblue;
+    font-family: 'Cabin', sans-serif;
+    font-size: 80px;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -190px;
+}
