@@ -1,4 +1,4 @@
 # Clock
-<strong>Languages: HTML/CSS/Javascript</strong>
+<strong>Languages: HTML/CSS/JS</strong>
 
 A simple clock made with Javascript
